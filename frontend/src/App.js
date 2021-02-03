@@ -78,8 +78,7 @@ function App() {
             ) : (
               <Intro />
             )}
-            {/* <Stats /> */}
-        </div>
+    	</div>
     </div>
   </WalletContext.Provider>
   );

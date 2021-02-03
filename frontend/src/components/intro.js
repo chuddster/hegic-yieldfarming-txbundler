@@ -15,9 +15,9 @@ function Intro(props) {
                         lineHeight:'125%',
                         fontSize:'46px',
                         textTransform:'uppercase'
-                        }}>rHegic swap yield farming</h1>
+                        }}>Use Hegic Rewards to Yield Farm</h1>
                     <div style={{color: '#defefe', fontFamily:'Exo 2', fontWeight:'500', lineHeight:'150%'}}>
-                    Service for converting swapped Hegic directly into writeETH, writeBTC, and/or yvHEGIC. Just a button click away.   
+                    Service for converting swapped Hegic (from rHegicv1) directly into writeETH, writeBTC, and/or yvHEGIC. All in a single tx.   
       		    </div>
                     <div style={{marginTop:'25px', display:'flex', justifyContent:'center'}}>
                     <Button style={{
@@ -34,8 +34,11 @@ function Intro(props) {
                         borderImageWidth:'50px'}} 
                         onClick={connect}>CONNECT WALLET</Button>
                     </div>
-            </Col>
-        </Row>
+	    </Col>
+      	</Row>
+	  <div style={{position:'absolute', bottom: "1%", left: "48.25%"}}>
+	     <a href="https://chuddster.medium.com/claim-hegic-rewards-and-start-yield-farming-in-a-single-transaction-7664b6cfafe8"> <img src={require('./medium-brands.svg')} width="50" height="25" /> </a>
+	  </div>
     </Container>);
 }
 

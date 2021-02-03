@@ -67,9 +67,18 @@ function Dashboard() {
 
   return (
     <Container >
-    <h1>COMING SOON!</h1>
+     <Row style={{marginTop:'10vh', minHeight:'50vh', zIndex:'-1', textAlign:'center'}}>
+             <Col sm='12' md={{ size: 6, offset: 3}}>
+                     <div style={{color: '#defefe', fontFamily:'Exo 2', fontWeight:'500', lineHeight:'150%'}}>
+                     <h1>Coming Soon!</h1> 
+                     </div>
+             </Col>
+     </Row>
+      <div style={{position:'absolute', bottom: "1%", left: "48.25%"}}>
+	 <a href="https://chuddster.medium.com/claim-hegic-rewards-and-start-yield-farming-in-a-single-transaction-7664b6cfafe8"> <img src={require('./medium-brands.svg')} width="50" height="25" /> </a>
+      </div>
     </Container>
-  );
+ );
 }
 
 export default Dashboard;

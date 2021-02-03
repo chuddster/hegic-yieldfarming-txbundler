@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/nomiclabs/hardhat-hackathon-boilerplate/issues"
   },
-  "homepage": "https://github.com/chuddster/hegic-yieldfarming-txbundler/blob/main/README.md",
+  "homepage": "https://chuddster.github.io/hegic-yieldfarming-txbundler/",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.0",
     "@nomiclabs/hardhat-waffle": "^2.0.0",

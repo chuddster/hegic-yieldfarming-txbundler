@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/hegic-yieldfarming-txbundler/static/css/main.6ed9ceba.chunk.css",
-    "main.js": "/hegic-yieldfarming-txbundler/static/js/main.4b3a7030.chunk.js",
-    "main.js.map": "/hegic-yieldfarming-txbundler/static/js/main.4b3a7030.chunk.js.map",
-    "runtime-main.js": "/hegic-yieldfarming-txbundler/static/js/runtime-main.f76c4e19.js",
-    "runtime-main.js.map": "/hegic-yieldfarming-txbundler/static/js/runtime-main.f76c4e19.js.map",
-    "static/js/2.eed4c374.chunk.js": "/hegic-yieldfarming-txbundler/static/js/2.eed4c374.chunk.js",
-    "static/js/2.eed4c374.chunk.js.map": "/hegic-yieldfarming-txbundler/static/js/2.eed4c374.chunk.js.map",
-    "index.html": "/hegic-yieldfarming-txbundler/index.html",
-    "precache-manifest.a2d4ded4ddf26be3f68eb0040f764623.js": "/hegic-yieldfarming-txbundler/precache-manifest.a2d4ded4ddf26be3f68eb0040f764623.js",
-    "service-worker.js": "/hegic-yieldfarming-txbundler/service-worker.js",
-    "static/css/main.6ed9ceba.chunk.css.map": "/hegic-yieldfarming-txbundler/static/css/main.6ed9ceba.chunk.css.map",
-    "static/js/2.eed4c374.chunk.js.LICENSE.txt": "/hegic-yieldfarming-txbundler/static/js/2.eed4c374.chunk.js.LICENSE.txt",
-    "static/media/medium-brands.svg": "/hegic-yieldfarming-txbundler/static/media/medium-brands.562753a3.svg"
+    "main.css": "/static/css/main.6ed9ceba.chunk.css",
+    "main.js": "/static/js/main.f44d8087.chunk.js",
+    "main.js.map": "/static/js/main.f44d8087.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.99e5c6ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.99e5c6ca.js.map",
+    "static/js/2.eed4c374.chunk.js": "/static/js/2.eed4c374.chunk.js",
+    "static/js/2.eed4c374.chunk.js.map": "/static/js/2.eed4c374.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d4df539e61565a441358804b599fea8a.js": "/precache-manifest.d4df539e61565a441358804b599fea8a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6ed9ceba.chunk.css.map": "/static/css/main.6ed9ceba.chunk.css.map",
+    "static/js/2.eed4c374.chunk.js.LICENSE.txt": "/static/js/2.eed4c374.chunk.js.LICENSE.txt",
+    "static/media/medium-brands.svg": "/static/media/medium-brands.562753a3.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f76c4e19.js",
+    "static/js/runtime-main.99e5c6ca.js",
     "static/js/2.eed4c374.chunk.js",
     "static/css/main.6ed9ceba.chunk.css",
-    "static/js/main.4b3a7030.chunk.js"
+    "static/js/main.f44d8087.chunk.js"
   ]
 }
